@@ -2,8 +2,8 @@
 👨‍💻 Full Stack Developer (Web/Native/Desktop) | 💼 Trainer Internee at MERL | 🥊 Mixed Martial Arts | 🚀 Future Tech Enthusiast |
 👋 Welcome to my GitHub! I'm a full stack developer with a passion for future technologies. When I'm not coding, I'm either training in mixed martial arts or exploring different cultures worldwide.
 Let's connect and create amazing things together!
-
 ---
+
 ### ⚡ Languages & Tools
 
 <img align="left" alt="HTML" width="40px" style="padding-right:10;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
