@@ -25,8 +25,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
 <img align="left" alt="ex" width="30px" style="padding-right:10;"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
 <img align="left" alt="ex" width="30px" style="padding-right:10;"
-<img src="postman.svg" /> 
-file:///C:/Users/AAC/Downloads/postman.svg
+<img src="https://iconduck.com/icons/94756/postman?shared" />
 <img align="left" alt="ex" width="30px" style="padding-right:10;"
 <img align="left" alt="ex" width="30px" style="padding-right:10;"
 
