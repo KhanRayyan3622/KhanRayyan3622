@@ -36,6 +36,16 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10;" 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />   
+<img align="left" alt="HTML" width="30px" style="padding-right:10;" 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />   
+<img align="left" alt="HTML" width="30px" style="padding-right:10;" 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10;" 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10;"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
+---     
+          
 
           
           
