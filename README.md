@@ -5,7 +5,7 @@ Let's connect and create amazing things together!
 
 ---
 ### 🌐 Languages & Tools
-<img align="left" alt="HTML" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="HTML" width="50px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="JS" width="30px" style="padding-right:10;" 
