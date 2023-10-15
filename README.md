@@ -49,12 +49,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
 <img align="left" alt="HTML" width="40px" style="padding-right:10;"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />
 
+👋 Welcome to my GitHub! I'm a full stack developer with a passion for future technologies. When I'm not coding, I'm either training in mixed martial arts or exploring different cultures worldwide.
+Let's connect and create amazing things together!
+
 ---
 
 ### Connect with me ☕
 
 <a href="https://www.facebook.com/profile.php?id=100004785878994">
-  <img align="left" alt="Facebook" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
+  <img align="left" alt="Facebook" width="40px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
 </a>
           
 
