@@ -50,7 +50,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />
 
 <br><br><br><br><br><br><br>I'm always open to interesting discussions, collaboration, and making new connections. 
-Feel free to reach out and connect with me through the following platforms: </br></br></br></br>
+Feel free to reach out and connect with me through the following platforms:
 
 ---
 
