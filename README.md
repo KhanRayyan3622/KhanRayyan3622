@@ -23,8 +23,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
 <img align="left" alt="ex" width="40px" style="padding-right:10;"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="ex" width="40px" style="padding-right:10;"  
-\n
-\n
+<br>
+</br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
 <img align="left" alt="ex" width="40px" style="padding-right:10;"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
