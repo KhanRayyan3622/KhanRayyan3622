@@ -1,7 +1,7 @@
 # 🧑🏻‍💻 Muhammad Rayyan Khan
 👨‍💻 Full Stack Developer (Web/Native/Desktop) | 💼 Trainer Internee at MERL | 🥊 Mixed Martial Arts | 🚀 Future Tech Enthusiast |
 👋 Welcome to my GitHub! I'm a full stack developer with a passion for future technologies. When I'm not coding, I'm either physically training or exploring different cultures worldwide.
-Let's connect and create a world of imagination, together! 🔥
+Let's connect and create a world of imagination, together! 
 
 ---
 
