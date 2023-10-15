@@ -61,10 +61,12 @@ Feel free to reach out and connect with me through the following platforms:
 <a href="https://www.facebook.com/profile.php?id=100004785878994">
   <img align="left" alt="Facebook" width="40px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
 </a>
+
 <a href="www.linkedin.com/in/khanrayyan3622">
-  <img align="left" alt="Linkedin" width="40px" style="padding-right:10;" src="<img src="
+  <img align="left" alt="Linkedin" width="40px" style="padding-right:10;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>            
+
           
 
           
