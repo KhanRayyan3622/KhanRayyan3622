@@ -4,9 +4,9 @@
 Let's connect and create amazing things together!
 
 ---
-<pr>
+
 ### ⚡ Languages & Tools
-  <img align="left" alt="HTML" width="40px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="left" alt="HTML" width="40px" style="padding-right:10;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="left" alt="CSS" width="40px" style="padding-right:10;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="left" alt="JS" width="40px" style="padding-right:10;" 
@@ -47,15 +47,14 @@ Let's connect and create amazing things together!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
   <img align="left" alt="HTML" width="40px" style="padding-right:10;"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />
-</p>
+
 ---
-<p1>
+
 ### Connect with me ☕
 
 <a href="https://www.facebook.com/profile.php?id=100004785878994">
   <img align="left" alt="Facebook" width="40px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
 </a>
-</p1>
           
 
           
