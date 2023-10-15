@@ -47,7 +47,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
 <img align="left" alt="HTML" width="40px" style="padding-right:10;"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />
 
-<a class="github-button" href="https://github.com/KhanRayyan3622" aria-label="Follow @KhanRayyan3622 on GitHub">Follow @KhanRayyan3622</a>
+
 
 
 
