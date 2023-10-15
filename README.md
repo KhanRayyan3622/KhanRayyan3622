@@ -53,8 +53,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
 
 ### Connect with me ☕
 
-href="https://www.facebook.com/profile.php?id=100004785878994">
+<a> href="https://www.facebook.com/profile.php?id=100004785878994">
 <img align="left" alt="Facebook" width="40px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
+</a>
           
 
           
