@@ -14,6 +14,26 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="MYSQL" width="30px" style="padding-right:10;" 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="WP" width="30px" style="padding-right:10;"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+<img align="left" alt="MDB" width="30px" style="padding-right:10;"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="ex" width="30px" style="padding-right:10;"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+<img align="left" alt="ex" width="30px" style="padding-right:10;"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="ex" width="30px" style="padding-right:10;"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
+<img align="left" alt="ex" width="30px" style="padding-right:10;"
+<img src="postman.svg" /> 
+file:///C:/Users/AAC/Downloads/postman.svg
+<img align="left" alt="ex" width="30px" style="padding-right:10;"
+<img align="left" alt="ex" width="30px" style="padding-right:10;"
+
+          
+
+          
+          
           
 
           
