@@ -1,6 +1,6 @@
 # 🏄‍♂️ Muhammad Rayyan Khan
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Creator (Developer/Contributor/Programmer)`**
 
 👨‍💻 Full Stack Developer (Web/Native/Desktop) | 💼 Trainer Internee at MERL | Web 3.0 and AI Enthusiast
 👋 Welcome to my GitHub! I'm a full stack developer with a passion for future technologies. When I'm not coding, I'm either physically training or exploring different cultures worldwide.
